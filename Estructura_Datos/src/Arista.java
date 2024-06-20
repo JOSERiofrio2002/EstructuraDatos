@@ -32,3 +32,6 @@ public class Arista {
         inicio = fin;
         fin = temp;
     }
+
+
+
