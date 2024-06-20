@@ -38,6 +38,6 @@ public class Grafo extends Principal {
     public void setAristas(int aristas) {
         this.aristas = aristas;
     }
-}
+  }
 
 

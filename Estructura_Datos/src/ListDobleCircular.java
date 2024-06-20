@@ -9,4 +9,3 @@ public class ListDobleCircular {
         this.principal = principal;
     }
 }
-

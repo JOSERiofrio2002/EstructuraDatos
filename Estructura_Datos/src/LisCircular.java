@@ -1,13 +1,11 @@
-public class ListDobleCircular {
-    private NodoDobleCircular principal;
+public class LisCircular {
+    private NodoCircular nodoCircularCabeza;
 
-    public NodoDobleCircular getPrincipal() {
-        return principal;
+    public NodoCircular getNodoCircularCabeza() {
+        return nodoCircularCabeza;
     }
 
-    public void setPrincipal(NodoDobleCircular principal) {
-        this.principal = principal;
+    public void setNodoCircularCabeza(NodoCircular nodoCircularCabeza) {
+        this.nodoCircularCabeza = nodoCircularCabeza;
     }
 }
-
-
